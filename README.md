@@ -18,3 +18,4 @@
 * What Chaos Theory and Fractals are about
 * Skim through Peitgen and Richter's Beauty of Fractals book
 * Chaos experiment
+
